@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "regal-tract-410104",
+  "private_key_id": "3a1eb01a01aa2404741a85415740a57e7cd912a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQChCaJadnR7aEew\nW0BAEyGefo1RIhId9q5q1UdUej9ksQTVQffyll1WsQbpYXBsLQusRMcxaqy4eRkG\n2lPS+2LBE1feTHXyWS4rrGC9XamrLvMMoR26tNqFB5Uv9gdXXorvMWAFxgQW/AXq\nbqJM8rMVpgpCyd2A0Jmu9YDVMJg6Z0aBfGg6Bg7sy7Ons9Y/BAIIYc3u9S4chwuc\n+ZAKg8ls9HSj4Ig5OFMFLFfe073NZ1duOglcHARC2sNEXakfKn1zfuzXmmdJcpY7\nHtYNrQHYfZk3WqK+IStzWIKHvVh8/ZZVbIhlDex7DYLGIrpywUMswVn76mb8x0e3\ntiNf5LL3AgMBAAECgf9TRCgB94vIsuWWLtBSUTkLXCyfn/i+LHtyXdU7vTHHXrVp\nYuTtphTUxA1DtXzgtRwLrrwYtVgfK+KpEi+04lIR526NOq3uZGYGUGOevk9bRM+U\nC6SQ1P3PUNQQQN4bl0b8noWTEny89ma0fYAVHPmdwyEQqnyrtMFS8yPGOXYNmpHK\nwBR4q4aepOin8cVTzEcLj8xmnJxbmu83Rrlix1TDSJdcwkTOpq9By116JUIGvG31\nmheC5uBYb8Yyn207VmLhX429A/giV8KGq8nzlU1mB9P+wMjbTi7e8d6cMRkAQWbC\npYSbL9+P9KeC3MMHqru0fnTsv1EpkRoWgZ0B+y0CgYEA1eEVsJvArv0qfij1Yiex\nRiCrqGuFo2ENQykeqMy2w4kHyHH1OnDAJpUQbixkCF651pFt1UE55DOW6Nz3ARoU\nrmeOHysOuyPccjRwCUYlzTA/7VgqCKIMJQ/9HTI7nVa7UrcYhOlyc1es/LtUU1eJ\ngmLU63SWZYH2M6qj8pE65kUCgYEAwMB+ASSpW8KRLW5LcGmNbvm4+LnYSmxae/xh\nuZsBPcT4I2YsmGhjS0PWGG2iIE9IhG/C5aTWsk++DQ7jtDMIKzRDNY6E7CQkXfZ2\nMIVONX3DpQLagOHDN2fcTBYHfQ60WPIce6hSscAbndGNrM/N4mBgaO0Dkn4cSWYT\nvEdldgsCgYBjl4UXEN+/XCnOR1pEE4GLyyjDqxW2hzm6vUoGhhTQpl1WbCIpzVjc\nXmshMlB+SUW18VA4jj/b0F4EHuhxvehFcfkO8GjSoZdEIsDMwLpXepE5/uTL0lFf\nbLuLPdneoQVnNdUYBvCBXyExKjXQ/SEN8uF8pnRl3gd79YiUKiZIFQKBgDXMhF7l\nUK/f2o2Hn16811EGOm6R0KDVJVw90Tjw3qPS+j9HIWNYn34+bN9cmkfSWTc9ynQ2\nUgZq42zZnwyIwdrtN2UXZlpSrCPdypc4Xd/oPlcsOLiISuiIAKDr9SMem4/H49NP\n4+Tg7dRazORTC/AHXmFq5fhZYqPJ7fA7LUKJAoGBAIRTwMLStLO+A6GzT2yXrBi8\nO615tXOHLJ0YdmSDzW3Sr24xo1W8DUpFIMWk90XvpNBoUk4oFqE+WST9ch/1b/O1\ndUtuI80oRpKubpfCCRu2ApsW28szlRTI7ENg8mCeAcqhdQAPlCN+KcZNM4LzsBb8\n+nP7HYGSFftVPT01Iygm\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-storage@regal-tract-410104.iam.gserviceaccount.com",
+  "client_id": "102058241576964511980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-storage%40regal-tract-410104.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
